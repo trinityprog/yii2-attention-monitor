@@ -1,0 +1,11 @@
+.git
+vendor
+runtime/*.sqlite
+runtime/*.txt
+web/assets/*
+!web/assets/.gitignore
+tests/_output
+tests/_support/_generated
+node_modules
+.idea
+.vscode
